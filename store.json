@@ -1,0 +1,297 @@
+[
+    {
+        "name"  : "centella",
+        "price" : "200",
+        "code"  : "1"
+    },
+    {
+        "name"  : "COLA TIGRE",
+        "price" : "350",
+        "code"  : "2"
+    },
+    {
+        "name"  : "TRULULU",
+        "price" : "300",
+        "code"  : "3"
+    },
+    {
+        "name"  : "ZOOEPRESA",
+        "price" : "400",
+        "code"  : "4"
+    },
+    {
+        "name"  : "BIG BANG",
+        "price" : "500",
+        "code"  : "5"
+    },
+    {
+        "name"  : "KRIKO",
+        "price" : "500",
+        "code"  : "6"
+    },
+    {
+        "name"  : "ZOOEPRESA",
+        "price" : "500",
+        "code"  : "7"
+    },
+    {
+        "name"  : "CHOCOLITO",
+        "price" : "550",
+        "code"  : "8"
+    },
+    {
+        "name"  : "CROCANTY",
+        "price" : "550",
+        "code"  : "9"
+    },
+    {
+        "name"  : "EGOCENTRICO",
+        "price" : "550",
+        "code"  : "10"
+    },
+    {
+        "name"  : "CRAZY",
+        "price" : "800",
+        "code"  : "11"
+    },
+    {
+        "name"  : "CRAZY SANGURUCH",
+        "price" : "800",
+        "code"  : "12"
+    },
+    {
+        "name"  : "PURA FRUTA",
+        "price" : "800",
+        "code"  : "13"
+    },
+    {
+        "name"  : "CHOMP",
+        "price" : "2200",
+        "code"  : "14"
+    },
+    {
+        "name"  : "DANKY",
+        "price" : "1200",
+        "code"  : "15"
+    },
+    {
+        "name"  : "MEGA",
+        "price" : "1200",
+        "code"  : "16"
+    },
+    {
+        "name"  : "CASSATAS",
+        "price" : "2050",
+        "code"  : "17"
+    },
+    {
+        "name"  : "CASSATAS",
+        "price" : "2700",
+        "code"  : "18"
+    },
+    {
+        "name"  : "ALMENDRADO",
+        "price" : "3000",
+        "code"  : "19"
+    },
+    {
+        "name"  : "CREMERIA",
+        "price" : "3400",
+        "code"  : "20"
+    },
+    {
+        "name"  : "CHAMONIX",
+        "price" : "1500",
+        "code"  : "21"
+    },
+    {
+        "name"  : "CONFORT",
+        "price" : "1400 X 4",
+        "code"  : "22"
+    },
+    {
+        "name"  : "VITUTILLA",
+        "price" : "250",
+        "code"  : "22"
+    },
+    {
+        "name"  : "QUIX",
+        "price" : "600",
+        "code"  : "23"
+    },
+    {
+        "name"  : "TOALLA NOVA",
+        "price" : "500",
+        "code"  : "24"
+    },
+    {
+        "name"  : "CONFORT SCOTH",
+        "price" : "1000 X 4",
+        "code"  : "25"
+    },
+    {
+        "name"  : "CLORINDA ROPA COLOR",
+        "price" : "1000",
+        "code"  : "26"
+    },    
+    {
+        "name"  : "POET PIANDE",
+        "price" : "1000",
+        "code"  : "27"
+    },    
+    {
+        "name"  : "P0OET PIANDE CHICO",
+        "price" : "700",
+        "code"  : "29"
+    },
+    {
+        "name"  : "OMO SOFT",
+        "price" : "1200",
+        "code"  : "30"
+    },
+    {
+        "name"  : "OMO",
+        "price" : "1000",
+        "code"  : "31"
+    },    
+    {
+        "name"  : "SERVILLETA",
+        "price" : "150",
+        "code"  : "32"
+    },
+    {
+        "name"  : "ESPONJA",
+        "price" : "200",
+        "code"  : "33"
+    },    
+    {
+        "name"  : "ACONDICIONADOR",
+        "price" : "1000",
+        "code"  : "34"
+    },    
+    {
+        "name"  : "CIF GRANDE",
+        "price" : "1200",
+        "code"  : "35"
+    },
+    {
+        "name"  : "DESODORANTE",
+        "price" : "1200",
+        "code"  : "36"
+    },
+    {
+        "name"  : "DETERGENTE BIO",
+        "price" : "2000",
+        "code"  : "37"
+    },
+    {
+        "name"  : "DOWNG (NATURA)",
+        "price" : "2000",
+        "code"  : "38"
+    },
+    {
+        "name"  : "PROTECTOR",
+        "price" : "700",
+        "code"  : "39"
+    },
+    {
+        "name"  : "LECHE CHOCOLATE",
+        "price" : "1100",
+        "code"  : "40"
+    },
+    {
+        "name"  : "LECHE BLANCA",
+        "price" : "1000",
+        "code"  : "41"
+    },
+    {
+        "name"  : "AZUCAR 1/2",
+        "price" : "550",
+        "code"  : "42"
+    },
+    {
+        "name"  : "AZUCAR 1 KILO",
+        "price" : "900",
+        "code"  : "43"
+    },
+    {
+        "name"  : "HARINA POLVO",
+        "price" : "800",
+        "code"  : "44"
+    },
+    {
+        "name"  : "HARINA SIN POLVO",
+        "price" : "800",
+        "code"  : "45"
+    },
+    {
+        "name"  : "CREMA NESTLE",
+        "price" : "1500",
+        "code"  : "46"
+    },
+    {
+        "name"  : "LECHE CONDENZADA",
+        "price" : "1400",
+        "code"  : "47"
+    },
+    {
+        "name"  : "ATUN ACETE",
+        "price" : "800",
+        "code"  : "48"
+    }, 
+    {
+        "name"  : "VANCAMS",
+        "price" : "1200",
+        "code"  : "49"
+    },
+    {
+        "name"  : "LOMITO",
+        "price" : "1300",
+        "code"  : "50"
+    },
+    {
+        "name"  : "CHAMPIÑOÑ",
+        "price" : "1300",
+        "code"  : "51"
+    },
+    {
+        "name"  : "JUREL SANJORGE",
+        "price" : "1300",
+        "code"  : "52"
+    },
+    {
+        "name"  : "POLMITO",
+        "price" : "F",
+        "code"  : ""
+    },
+    {
+        "name"  : "",
+        "price" : "",
+        "code"  : ""
+    },
+    {
+        "name"  : "",
+        "price" : "",
+        "code"  : ""
+    },
+    {
+        "name"  : "",
+        "price" : "",
+        "code"  : ""
+    },
+    {
+        "name"  : "",
+        "price" : "",
+        "code"  : ""
+    },
+    {
+        "name"  : "",
+        "price" : "",
+        "code"  : ""
+    },
+    {
+        "name"  : "",
+        "price" : "",
+        "code"  : ""
+    }
+]
